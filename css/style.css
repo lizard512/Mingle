@@ -69,7 +69,6 @@
 /*** Navbar ***/
 .nav-bar {
     position: relative;
-    margin-top: 45px;
     padding: 0;
     transition: .5s;
     z-index: 9999;
@@ -163,7 +162,7 @@
 /*** Header ***/
 @media (min-width: 992px) {
     .header {
-        margin-top: -120px;
+        margin-top: 0px;
     }
 }
 
